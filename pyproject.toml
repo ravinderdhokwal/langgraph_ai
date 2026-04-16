@@ -9,5 +9,6 @@ dependencies = [
     "langchain>=1.2.15",
     "langchain-google-genai>=4.2.2",
     "langchain-openai>=1.1.13",
+    "langchain-openrouter>=0.2.1",
     "langgraph>=1.1.6",
 ]
